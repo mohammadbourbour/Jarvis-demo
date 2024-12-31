@@ -1,0 +1,7 @@
+pyfiglet
+pyttsx3
+SpeechRecognition
+termcolor
+pyjokes
+requests
+
